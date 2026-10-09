@@ -1,0 +1,26 @@
+[
+  {
+    "id": "S1",
+    "name": "Government School",
+    "location": "Shelter1",
+    "capacity": 300,
+    "occupied": 100,
+    "safe": true
+  },
+  {
+    "id": "S2",
+    "name": "Community Hall",
+    "location": "Shelter2",
+    "capacity": 400,
+    "occupied": 100,
+    "safe": true
+  },
+  {
+    "id": "S3",
+    "name": "College Auditorium",
+    "location": "Shelter3",
+    "capacity": 500,
+    "occupied": 200,
+    "safe": true
+  }
+]

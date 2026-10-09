@@ -1,0 +1,50 @@
+[
+  {
+    "id": "R1",
+    "source": "ZoneA",
+    "destination": "Junction1",
+    "distance": 2,
+    "risk": 1,
+    "blocked": false
+  },
+  {
+    "id": "R2",
+    "source": "Junction1",
+    "destination": "Shelter1",
+    "distance": 3,
+    "risk": 1,
+    "blocked": true
+  },
+  {
+    "id": "R3",
+    "source": "ZoneA",
+    "destination": "Junction2",
+    "distance": 3,
+    "risk": 1,
+    "blocked": false
+  },
+  {
+    "id": "R4",
+    "source": "Junction2",
+    "destination": "Shelter2",
+    "distance": 2,
+    "risk": 2,
+    "blocked": false
+  },
+  {
+    "id": "R5",
+    "source": "Junction2",
+    "destination": "Shelter3",
+    "distance": 4,
+    "risk": 1,
+    "blocked": false
+  },
+  {
+    "id": "R6",
+    "source": "Shelter3",
+    "destination": "Shelter2",
+    "distance": 2,
+    "risk": 2,
+    "blocked": false
+  }
+]

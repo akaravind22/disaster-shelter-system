@@ -1,0 +1,38 @@
+[
+  {
+    "id": "ZoneA",
+    "name": "Zone A",
+    "lat": 12.91,
+    "lng": 74.84
+  },
+  {
+    "id": "Junction1",
+    "name": "North Junction",
+    "lat": 12.935,
+    "lng": 74.845
+  },
+  {
+    "id": "Junction2",
+    "name": "East Junction",
+    "lat": 12.917,
+    "lng": 74.865
+  },
+  {
+    "id": "Shelter1",
+    "name": "Government School",
+    "lat": 12.954,
+    "lng": 74.853
+  },
+  {
+    "id": "Shelter2",
+    "name": "Community Hall",
+    "lat": 12.937,
+    "lng": 74.885
+  },
+  {
+    "id": "Shelter3",
+    "name": "College Auditorium",
+    "lat": 12.906,
+    "lng": 74.895
+  }
+]

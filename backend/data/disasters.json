@@ -1,0 +1,10 @@
+[
+  {
+    "id": "DEMO",
+    "type": "Flood",
+    "location": "ZoneA",
+    "risk": "HIGH",
+    "population": 500,
+    "description": "Preloaded flood exercise near Zone A."
+  }
+]
